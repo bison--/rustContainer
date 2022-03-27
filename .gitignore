@@ -11,3 +11,5 @@ Cargo.lock
 
 # my
 *.bin
+# only deliver samplecodes, the rest is for otehr git repos
+code/
